@@ -157,8 +157,6 @@ Original guide code and documentation are released under the [MIT License](LICEN
 
 - Supplied SwiftSkale **Forage Excel Skills Job Simulation Project Brief**.
 - Supplied **Account Sales Data for Analysis.xlsx**, worksheet **Account Sales Data!A1:M41**.
-- Task screenshots and training discussion supplied for this project.
-- SwiftSkale logo supplied by the trainer; Forage Academy branding appears in the supplied simulation artwork.
 - Original practice scenarios and explanatory guide content developed for this training companion.
 
 Third-party logos, screenshots and simulation materials remain attributable to their respective owners. Their inclusion identifies the learning context and does not imply that this repository is an official Forage product.
